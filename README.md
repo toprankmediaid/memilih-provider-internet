@@ -12,7 +12,7 @@ Selain itu, perhatikan jumlah perangkat yang akan terhubung ke internet di rumah
 ## 2. Memahami Jenis Layanan Internet yang Tersedia
 Di Indonesia, terdapat beberapa jenis layanan internet yang ditawarkan oleh berbagai provider. Berikut adalah beberapa jenis layanan internet yang umum ditemui:
 
-1.Fiber Optik: Layanan internet fiber optik menawarkan kecepatan dan stabilitas yang tinggi, serta latensi yang rendah. Ini merupakan pilihan terbaik untuk pengguna yang membutuhkan kecepatan tinggi dan koneksi yang andal. Namun, cakupan layanan fiber optik masih terbatas di beberapa wilayah.
+1. Fiber Optik: Layanan internet fiber optik menawarkan kecepatan dan stabilitas yang tinggi, serta latensi yang rendah. Ini merupakan pilihan terbaik untuk pengguna yang membutuhkan kecepatan tinggi dan koneksi yang andal. Namun, cakupan layanan fiber optik masih terbatas di beberapa wilayah.
 2. DSL (Digital Subscriber Line): DSL menggunakan saluran telepon untuk mengirimkan data, sehingga lebih mudah diakses di berbagai wilayah. Meskipun tidak secepat fiber optik, DSL cukup andal untuk penggunaan sehari-hari seperti browsing dan streaming video.
 3. Wireless Broadband: Layanan ini menggunakan jaringan seluler untuk menyediakan internet, sehingga cocok untuk daerah yang belum terjangkau layanan kabel atau fiber optik. Kecepatan dan stabilitasnya dapat bervariasi tergantung pada sinyal seluler di daerah Anda.
 4. Satellite Internet: Pilihan ini umumnya digunakan di daerah pedesaan atau terpencil yang tidak terjangkau oleh layanan kabel atau fiber. Meskipun menawarkan cakupan yang luas, layanan internet satelit cenderung memiliki latensi yang tinggi dan kecepatan yang lebih rendah dibandingkan dengan opsi lainnya.
